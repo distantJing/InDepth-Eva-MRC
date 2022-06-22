@@ -39,7 +39,7 @@ Our system consists of five main modules:
 ## How to Use
 In conclusion, InDepth-Eva-MRC platform offers thorough cognitive evaluation and fine-grained comparison of MRC models from three analysis principles. Besides, uesrs can also download all kinds of test sets and upload their prediction files to the platform, so as to anslysis their own MRC models.
 
-The screenshots and additional external material are available at [screenshots](http://).
+The screenshots and additional external material are available at [screenshots](https://github.com/py-rgb/InDepth-Eva-MRC/tree/main/screenshots).
 
 ## Install & Quick Start
 coming soon...

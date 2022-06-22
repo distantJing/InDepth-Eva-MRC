@@ -45,7 +45,7 @@ s5. Understanding the sequence of events in the context (Randomly shuffle the or
 s6. Reading and Understanding the texts against robustness (Translate the pasage from English to French and back to English.)
 ![](./src/p2-case-s6.jpg )
 s7. Detecting and understanding the comparison relationship (Drop all comparative and superlative words in the passage.)
-
+![](./src/p2-case-s7.jpg )
 s8. Performing basic numerical calculations (Replace numerical expressions with random numbers in the passage.)
 
 s9. Detecting and understanding all occurrences of demonstrative pronouns (Drop all demonstrative pronouns in the passage.)

@@ -22,7 +22,7 @@ Our system consists of five main modules:
 * Principles for In-depth Analysis
    * describes three principles for in-depth analysis, including 1) linguistic bias analysis based on the original test sets; 2)internal skill-based analysis based on new reconstructed test sets; and 3) external skill-based analysis based on new generated test sets.
    * provides a flexible interface to reconstruct new test sets for internal skill-based analysis.
-   * The complete principles, along with corresponding case examples and analysis strategies, are available at [Analysis Principles Document](http://).
+   * The complete principles, along with corresponding case examples and analysis strategies, are available at [Analysis Principles Document](https://github.com/py-rgb/InDepth-Eva-MRC/tree/main/Analysis%20Principles%20Document).
 * Evaluation
    * evaluates the trained MRC model on the original new test sets and lists all results and supports illustrating each sample for a case study.
    * users can also download all kinds of test sets and upload their prediction files to the platform.

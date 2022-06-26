@@ -47,17 +47,17 @@ s6. Reading and Understanding the texts against robustness (Translate the pasage
 s7. Detecting and understanding the comparison relationship (Drop all comparative and superlative words in the passage.)
 ![](./src/p2-case-s7.jpg )
 s8. Performing basic numerical calculations (Replace numerical expressions with random numbers in the passage.)
-
+![](./src/p2-case-s8.jpg )
 s9. Detecting and understanding all occurrences of demonstrative pronouns (Drop all demonstrative pronouns in the passage.)
-
+![](./src/p2-case-s9.jpg )
 s10. Performing explicit causal reasoning rather than focusing on causal words (Drop all causal words in the passage.)
-
+![](./src/p2-case-s10.jpg )
 s11. Performing hypothetical reasoning rather than focusing on hypothetical words (Drop all hypothetical words in the passage.)
 
 s12. Performing explicit logical reasoning rather than focusing on logical words (Drop all explicit logical words in the context.)
-
+![](./src/p2-case-s12.jpg )
 s13. Reasoning questions rather than focusing on the interrogative word (Drop words other than interrogatives (wh-words and how) in the question.)
-
+![](./src/p2-case-s13.jpg )
 s14. Reasoning with the whole passage rather than focusing on explict sentences (Keep the sentence most similar to the question.)
 ![](./src/p2-case-s14.jpg )
 

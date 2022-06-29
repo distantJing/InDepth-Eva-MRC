@@ -10,6 +10,13 @@ The complete install and quick start documents are coming soon, and the demonstr
 * **Researchers:** InDepth-Eva-MRC can easily help you to view the baseline model of MRC task, and provide fine-grained evaluation analysis of the model.
 * **New to MRC:** InDepth-Eva-MRC can quickly help you understand the process of mrc tasks, and can also make you understand the model more clearly through fine-grained analysis.
 
+## Main Supported Functionality 
+* Preloads several MRC models and datasets, and provides the user interface to quickly train an MRC model.
+* Provides fine-grained evaluation analysis of the pre-loaded model.
+* Provides interface to support new users’ model analysis.
+
+We hope that 
+
 ## Overview Architecture
 ![alt 属性文本](./src/framework.png )
 Our system consists of five main modules: 
@@ -44,4 +51,9 @@ The screenshots and additional external material are available at [screenshots](
 ## Install & Quick Start
 coming soon...
 
- 
+## References
+```
+Marco Túlio Ribeiro, Tongshuang Wu, Carlos Guestrin, Sameer Singh: Beyond Accuracy: Behavioral Testing of NLP Models with CheckList. ACL 2020: 4902-4912
+
+Saku Sugawara, Pontus Stenetorp, Kentaro Inui, Akiko Aizawa: Assessing the Benchmarking Capacity of Machine Reading Comprehension Datasets. AAAI 2020: 8918-8927
+```

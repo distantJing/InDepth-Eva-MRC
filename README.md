@@ -15,7 +15,7 @@ The complete install and quick start documents are coming soon, and the demonstr
 * Provides fine-grained evaluation analysis of the pre-loaded model.
 * Provides interface to support new users’ model analysis.
 
-We hope that 
+We hope that the InDepth-Eva-MRC platform can facilitate the advancement of cognitive evaluation with more human-like reasoning skills.
 
 ## Overview Architecture
 ![alt 属性文本](./src/framework.png )

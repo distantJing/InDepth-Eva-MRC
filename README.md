@@ -49,7 +49,7 @@ In conclusion, InDepth-Eva-MRC platform offers thorough cognitive evaluation and
 The screenshots and additional external material are available at [screenshots](https://github.com/py-rgb/InDepth-Eva-MRC/tree/main/screenshots).
 
 ## Install & Quick Start
-coming soon...
+[Code](https://github.com/distantJing/InDepth-Eva-MRC/tree/main/Code)
 
 ## References
 ```

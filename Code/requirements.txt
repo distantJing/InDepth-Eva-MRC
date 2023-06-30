@@ -1,0 +1,6 @@
+stanfordcorenlp==3.9.1.1
+nltk==3.6.2
+tqdm==4.59.0
+# numpy==1.17.0
+torch==1.8.0
+six

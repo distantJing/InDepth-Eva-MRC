@@ -18,9 +18,9 @@
     drop_function_words	   | Understand context rather than focus on function words
     drop_content_words     | Understand context rather than focus on content words
 
-[Specific introduction in the internal-skill-based-analysis
-]https://github.com/distantJing/InDepth-Eva-MRC/tree/main/Analysis%20Principles%20Document#internal-skill-based-analysis
-
+Specific introduction in the [internal-skill-based-analysis
+](https://github.com/distantJing/InDepth-Eva-MRC/tree/main/Analysis%20Principles%20Document#internal-skill-based-analysis
+)
   ## 1. Install Python API
   ```cmd
     conda create -n CognitionSkill python=3.6 

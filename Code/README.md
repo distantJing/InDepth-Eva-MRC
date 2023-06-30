@@ -27,7 +27,10 @@
     pip3 install -r requirements.txt
     pip3 install Skill-0.0.1-py3-none-any.whl
  ```
-  ## 2. Use Python API
+  ## 2 Dwonload corenlp
+    [stanford-corenlp-latest.zip][https://huggingface.co/stanfordnlp/CoreNLP/tree/main]
+    unzip stanford-corenlp-latest.zip
+  ## 3. Use Python API
   ```python
     # An illustrative example of utilizing the "change_context_antonym" method to construct a dataset is as follows:
 

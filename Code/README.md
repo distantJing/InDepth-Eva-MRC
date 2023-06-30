@@ -28,7 +28,7 @@
     pip3 install Skill-0.0.1-py3-none-any.whl
  ```
   ## 2 Dwonload corenlp
-    [stanford-corenlp-latest.zip](https://huggingface.co/stanfordnlp/CoreNLP/tree/main)
+    [stanford-corenlp-latest](https://huggingface.co/stanfordnlp/CoreNLP/tree/main)
     unzip stanford-corenlp-latest.zip
   ## 3. Use Python API
   ```python

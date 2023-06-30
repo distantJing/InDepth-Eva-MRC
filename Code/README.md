@@ -1,6 +1,6 @@
   
   # Internal Skill-based Analysis
-  We provide a comprehensive range of 13 methods for skill restructuring, , which are detailed below:
+  We provide a comprehensive range of 13 methods for skill restructuring, which are detailed below:
   
         Abbreviation       |          Skill       
     =========================================================================================================================
@@ -17,6 +17,9 @@
     drop_except_most_similar_sentences  | Inferencing with the whole context word rather than focusing on similar sentences
     drop_function_words	   | Understand context rather than focus on function words
     drop_content_words     | Understand context rather than focus on content words
+
+[Specific introduction in the internal-skill-based-analysis
+]https://github.com/distantJing/InDepth-Eva-MRC/tree/main/Analysis%20Principles%20Document#internal-skill-based-analysis
 
   ## 1. Install Python API
   ```cmd
